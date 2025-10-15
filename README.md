@@ -23,9 +23,11 @@ The second dataset called **_Rent Prices_** provides insights into rental prices
 **_. Key Insights to Explore_** : Determine which groups face the highest housing burden and how this has evolved over time. Consider how these trends can inform and influence future housing policy decisions.
 
 
+
+
 To help us explore the data and uncover meaningful patterns, we came up with the following hypotheses. They give us a clearer picture of how housing costs affect different types of households.
 
-1(a): "People who live alone and Single Parents are at greatest risk of Poverty" see; Hypothesis_1(a)
+1(a): "People who live alone and Single Parents are at greatest risk of Poverty" see; Hypothesis_1(a)[Hypothesis_1(a)](<./01_Hypothesis_1(a).ipynb>)
 
 1(b): "Housing cost burden is rising across all income levels" see; Hypothesis_1(b)
 
